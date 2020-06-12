@@ -21,3 +21,4 @@
 + 观察者具有update （ public 函数）， 让目标去调用
 + 目标类具有Notify （private function），去调用各个观察者的update function
 
+![](https://raw.githubusercontent.com/yanleiwang/images/master/markdown/Snipaste_2020-06-12_23-09-46.png)
